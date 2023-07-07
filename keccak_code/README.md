@@ -19,7 +19,5 @@ code files:
 
 result folder:
 1. keccak256_2.5r.log: the result to print 2.5-round linear structures on keccak256.
-
-1. keccak512_1.5r.log: the result to print 2.5-round linear structures on keccak512.
-
+2. 
 note that: our model returns huge solutions, for save memory, we only provide a part of the solutions for the check.
